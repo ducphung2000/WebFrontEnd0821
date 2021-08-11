@@ -1,0 +1,44 @@
+/** {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+body {
+    background-image: url("../imgs/anh-hoa-anh-dao-1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: #FF0000FF;
+    font-size: 30px;
+}
+
+p {
+
+    color: #000;
+    font-size: 18px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: justify;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    line-height: 1.5;
+
+}
+
+div {
+    padding: 10px;
+    border: 1px solid #1E90FFFF;
+    width: 600px;
+    float: left;
+    margin-left: 10px ;
+    box-sizing: border-box;
+}
+
+.dv1 {
+    background: rgba(255,245,43,0.3);
+}
+
+.dv2 {
+    background: rgba(255,43,4,0.3);
+}
