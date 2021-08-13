@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Bong da</title>
-    <?php include("layout/head.html");?>
+    <?php include("layout/head.html");
 </head>
 <body>
     <header class="header">
